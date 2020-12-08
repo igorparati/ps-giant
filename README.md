@@ -1,2 +1,2 @@
 # ps-giant
-giant ps problem solution
+giant steps summer job ps problem solution by @igorcmag
